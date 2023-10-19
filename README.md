@@ -271,7 +271,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 #### Image Picker
 
-- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com).
+- [Image Picker](https://github.com/flutter/packages/tree/main/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com).
 - [WeChat Assets Picker](https://github.com/fluttercandies/flutter_wechat_assets_picker) [811⭐] - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
 
 ### Map
@@ -303,9 +303,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### Auth
 
-- [Local Auth](https://github.com/flutter/plugins/tree/master/packages/local_auth) - Touch ID, lock code, fingerprint auth on iOS and Android.
+- [Local Auth](https://github.com/flutter/packages/tree/main/packages/local_auth) - Touch ID, lock code, fingerprint auth on iOS and Android.
 - [Login](https://github.com/AppleEducate/flutter_login) [628⭐] - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com).
-- [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth.
+- [Google Sign-In](https://github.com/flutter/packages/tree/main/packages/google_sign_in) - Google OAuth.
 - [Firebase Auth](https://github.com/FirebaseExtended/flutterfire/tree/master/packages/firebase_auth) - Firebase OAuth.
 - [Facebook Login](https://github.com/roughike/flutter_facebook_login) [399⭐] - Authenticate with native Android & iOS Facebook login SDKs by [Iiro Krankka](https://github.com/roughike).
 - [Apple Sign-In](https://github.com/tomgilder/flutter_apple_sign_in) [157⭐] - Apple sign in by [Tom Gilder](https://github.com/tomgilder).
@@ -434,8 +434,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Plugins
 
-- [Pub packages](https://pub.dev/flutter/packages) - Packages filter in Dart Pub Repository.
-- [Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins.
+- [Packages](https://pub.dev/flutter/packages) - Packages filter in Dart Pub Repository.
+- [Plugins](https://github.com/flutter/packages/tree/main/packages) - Official Flutter Team Plugins.
 
 ### Device
 
